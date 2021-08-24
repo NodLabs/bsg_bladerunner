@@ -1,6 +1,7 @@
 [submodule "bsg_f1"]
 	path = bsg_replicant
-	url = git@github.com:NobLabs/bsg_replicant.git
+	url = git@github.com:NodLabs/bsg_replicant.git
+	branch = nod
 [submodule "bsg_manycore"]
 	path = bsg_manycore
 	url = git@github.com:NodLabs/bsg_manycore.git
